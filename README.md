@@ -20,7 +20,6 @@
 ![Tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
 ![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Lenguajes Frecuentes:
 
