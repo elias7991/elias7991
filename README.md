@@ -22,7 +22,16 @@
 ![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+##### Lenguajes Frecuentes:
 
+![Dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-typescript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Algunas tecnologías que manejo:
 
