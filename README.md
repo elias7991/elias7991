@@ -13,13 +13,15 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliascaceres124@fpuna.edu.py)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-c%C3%A1ceres-262b1b1b4/)
 
-##### Lenguajes frecuentes:
+##### Frameworks frecuentes:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Flutter](https://img.shields.io/badge/-flutter-000000?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/-react+ts-000000?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
+![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
 
 
 ##### Algunas tecnologías que manejo:
